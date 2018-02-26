@@ -5,9 +5,6 @@
 
 ## 학습 목록
 
-### 데이터 처리 (Data Processing Methods)
-
-- 수치형 데이터 정규화 (Numeric Data Normalization)
 
 ### 지도 학습 방법 (Supervised Learning)
 
@@ -21,3 +18,7 @@
 ### 비지도 학습방법 (Unsupervised Learning)
 
 - 클러스터링 (Clustering)
+
+### 데이터 처리 (Data Processing Methods)
+
+- 수치형 데이터 정규화 (Numeric Data Normalization)
