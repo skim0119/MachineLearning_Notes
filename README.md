@@ -19,6 +19,8 @@
 
 - [클러스터링 (Clustering)]
 
-### 데이터 처리 (Data Processing Methods)
+### 학습관련 도구 (Miscellaneous)
 
 - [수치형 데이터 정규화 (Numeric Data Normalization)](https://github.com/skim0119/MachineLearning_Notes/blob/master/Notes/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%B2%98%EB%A6%AC/1.%20%EC%88%98%EC%B9%98%ED%98%95%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%95%EA%B7%9C%ED%99%94.ipynb)
+- [오류율 (Error Rate)]
+- [과적합과 학습용/시험용 데이터분할 (Overfitting and Train/Test Split)]
