@@ -1,6 +1,6 @@
 # 머신러닝 연습장
 
-* 퍼셉트론(Perceptron)과 그 외 신경망 구조에 머신러닝 방식은 따로 분류. (DeepLearning_Notes)[https://github.com/skim0119/DeepLearning_Notes]
+* 퍼셉트론(Perceptron)과 그 외 신경망 구조에 머신러닝 방식은 따로 분류. [DeepLearning_Notes](https://github.com/skim0119/DeepLearning_Notes)
 
 
 ## 학습 목록
