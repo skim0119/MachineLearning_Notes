@@ -22,6 +22,6 @@
 ### 학습관련 도구 (Miscellaneous)
 
 - [수치형 데이터 정규화 (Numeric Data Normalization)](https://github.com/skim0119/MachineLearning_Notes/blob/master/Notes/%EB%8F%84%EA%B5%AC/1.%20%EC%88%98%EC%B9%98%ED%98%95%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%95%EA%B7%9C%ED%99%94.ipynb)
-- [k-fold 교차검증 (k-fold cross validation)]
+- [k-fold 교차검증 (k-fold cross validation)](https://github.com/skim0119/MachineLearning_Notes/blob/master/Notes/%EB%8F%84%EA%B5%AC/2.%EA%B5%90%EC%B0%A8%EA%B2%80%EC%A6%9D.ipynb)
 - [오류율 (Error Rate)]
 - [과적합과 학습용/시험용 데이터분할 (Overfitting and Train/Test Split)]
