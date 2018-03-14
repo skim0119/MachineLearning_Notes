@@ -2,9 +2,7 @@
 
 * 퍼셉트론(Perceptron)과 그 외 신경망 구조에 머신러닝 방식은 따로 분류. [DeepLearning_Notes](https://github.com/skim0119/DeepLearning_Notes)
 
-
 ## 학습 목록
-
 
 ### 지도 학습 방법 (Supervised Learning)
 
@@ -25,3 +23,8 @@
 - [k-fold 교차검증 (k-fold cross validation)](https://github.com/skim0119/MachineLearning_Notes/blob/master/Notes/%EB%8F%84%EA%B5%AC/2.%EA%B5%90%EC%B0%A8%EA%B2%80%EC%A6%9D.ipynb)
 - [오류율 (Error Rate)]
 - [과적합과 학습용/시험용 데이터분할 (Overfitting and Train/Test Split)]
+- 식: $\frac{1}{2}$
+$$
+\frac{1}{2}
+$$
+수정1
