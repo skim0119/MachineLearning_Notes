@@ -17,6 +17,7 @@
 
 ### 비지도 학습방법 (Unsupervised Learning)
 
+- [서포트 벡터 머신 (Support Vector Machine; SVM)]
 -	[클러스터링 (Clustering)]
 
 ### 학습관련 도구 (Miscellaneous)
