@@ -10,13 +10,13 @@
 
 -	[k-최근접 이웃 (k-Nearest Neighbors)](https://github.com/skim0119/MachineLearning_Notes/tree/master/Notes/%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5/k-%EC%B5%9C%EA%B7%BC%EC%A0%91%20%EC%9D%B4%EC%9B%83)
 -	[나이브 베이스 (Naive Bayes)](https://github.com/skim0119/MachineLearning_Notes/tree/master/Notes/%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5/%EB%82%98%EC%9D%B4%EB%B8%8C%20%EB%B2%A0%EC%9D%B4%EC%8A%A4)
--	[지지벡터 머신 (Support Vector Machines)]
 -	[의사 걸정 트리 (Decision Trees)]
 -	[회귀 (Regression)]
 -	[라쏘 (Lasso)]
 
 ### 비지도 학습방법 (Unsupervised Learning)
 
+- [지지벡터 머신 (Support Vector Machine; SVM)]
 -	[클러스터링 (Clustering)]
 
 ### 학습관련 도구 (Miscellaneous)
