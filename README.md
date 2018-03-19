@@ -10,8 +10,8 @@
 
 -	[k-최근접 이웃 (k-Nearest Neighbors)](https://github.com/skim0119/MachineLearning_Notes/tree/master/Notes/%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5/k-%EC%B5%9C%EA%B7%BC%EC%A0%91%20%EC%9D%B4%EC%9B%83)
 -	[나이브 베이스 (Naive Bayes)](https://github.com/skim0119/MachineLearning_Notes/tree/master/Notes/%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5/%EB%82%98%EC%9D%B4%EB%B8%8C%20%EB%B2%A0%EC%9D%B4%EC%8A%A4)
--	[의사 걸정 트리 (Decision Trees)]
--	[회귀 (Regression)]
+-	[의사 걸정 트리 (Decision Trees)](https://github.com/skim0119/MachineLearning_Notes/tree/master/Notes/%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5/%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%ED%8A%B8%EB%A6%AC)
+-	[회귀 (Regression)](https://github.com/skim0119/MachineLearning_Notes/tree/master/Notes/%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5/%ED%9A%8C%EA%B7%80)
 -	[라쏘 (Lasso)]
 
 ### 비지도 학습방법 (Unsupervised Learning)
